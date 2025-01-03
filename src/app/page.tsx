@@ -13,6 +13,7 @@ export default function Home() {
       <Projects />
       <Testimonials />
       <Contact />
+      
       {/* <SmoothScrollExample /> */}
     </main>
   );
