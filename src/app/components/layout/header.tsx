@@ -1,5 +1,6 @@
 import {
   Sheet,
+  SheetClose,
   SheetContent,
   SheetTrigger,
 } from "@/components/ui/sheet";
@@ -55,13 +56,14 @@ export default function Header() {
             <SheetContent>
               <div className="flex flex-col mt-6 gap-11">
                 {navLinks.map((link) => (
-                  <Link
-                    key={link.href}
-                    href={link.href}
-                    className="text-white hover:text-[#00ffff] transition duration-300 text-center"
-                  >
-                    {link.label}
-                  </Link>
+                  <SheetClose asChild key={link.href}>
+                    <Link
+                      href={link.href}
+                      className="text-white hover:text-[#00ffff] transition duration-300 text-center"
+                    >
+                      {link.label}
+                    </Link>
+                  </SheetClose>
                 ))}
               </div>
             </SheetContent>

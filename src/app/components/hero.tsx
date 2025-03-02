@@ -52,7 +52,9 @@ export default function Hero() {
             </Link>
           </div>
 
-          <button className="rounded-full bg-[#00ffff] px-8 py-3 font-bold text-black hover:bg-[#00ffff]/90 transition-colors">
+          <button className="rounded-full bg-[#00ffff] px-8 py-3 font-bold text-black hover:bg-[#00ffff]/90 transition-colors"
+          onClick={() => window.open('/My_Resume.pdf', '_blank')}
+          >
             Download CV
           </button>
         </div>
@@ -60,11 +62,11 @@ export default function Hero() {
         <div className="flex justify-center lg:justify-end">
           <div className="relative">
             <Image
-              src="/profile.png"
+              src="/prof_img.png"
               alt="Abbas Avatar"
               width={'4000'}
               height={'4000'}
-              className="relative z-10 w-full h-full"
+              className="relative z-10 w-full h-full border-[3px] border-[#00ffff] rounded-full"
             />
           </div>
         </div>
