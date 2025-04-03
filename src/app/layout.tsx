@@ -11,7 +11,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Abbas Asad | Turning Ideas into Reality",
+  title: "Muhammad Abbas | Turning Ideas into Reality",
   description: "Explore my portfolio showcasing expertise in web development, modern frameworks, and creative solutions.",
 };
 

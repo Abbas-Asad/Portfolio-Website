@@ -21,7 +21,7 @@ export default function Hero() {
               Hello, It&apos;s Me
             </h2>
             <h1 className="text-[2.9rem] leading-[3.90rem] font-bold text-[#00ffff]">
-              Abbas Asad
+              Muhammad Abbas
             </h1>
             <div className="flex items-center gap-2">
               <p className="text-2xl font-bold text-white">
@@ -53,7 +53,7 @@ export default function Hero() {
           </div>
 
           <button className="rounded-full bg-[#00ffff] px-8 py-3 font-bold text-black hover:bg-[#00ffff]/90 transition-colors"
-          onClick={() => window.open('/My_Resume.pdf', '_blank')}
+            onClick={() => window.open('/My_Resume.pdf', '_blank')}
           >
             Download CV
           </button>

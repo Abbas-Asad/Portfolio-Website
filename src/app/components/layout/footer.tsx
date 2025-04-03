@@ -42,10 +42,10 @@ const Footer = () => {
           href="/"
           className="flex title-font font-medium items-center md:justify-start justify-center text-gray-200"
         >
-          <span className="ml-3 text-xl">Abbas Asad Portfolio</span>
+          <span className="ml-3 text-xl">Muhammad Abbas Portfolio</span>
         </Link>
         <p className="text-sm text-gray-400 sm:ml-4 sm:pl-4 sm:py-2 sm:mt-0 mt-4 border-l-2 border-gray-600">
-          &copy; 2024 Abbas Asad. All rights reserved.
+          &copy; 2024 Muhammad Abbas. All rights reserved.
         </p>
         <div className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
           {socialLinks.map((link, index) => (
