@@ -12,7 +12,7 @@ const projectData = [
         description: "A scalable platform for video-on-demand with personalized recommendations and seamless user experience.",
         imageUrl: "/project1.png",
         visitLink: "https://netflixweb-clone.vercel.app/",
-        githubLink: "https://github.com/abbas-asad/Html_Css_Web_Projects/tree/main/netflix_clone/",
+        githubLink: "https://github.com/muhammad-abbas07/Html_Css_Web_Projects/tree/main/netflix_clone/",
     },
     {
         id: 2,
@@ -21,7 +21,7 @@ const projectData = [
         description: "An online retail store offering intuitive navigation, product discovery, and a smooth checkout experience.",
         imageUrl: "/project2.png",
         visitLink: "https://luxemart.vercel.app/",
-        githubLink: "https://github.com/abbas-asad/Ecommerce-Website/",
+        githubLink: "https://github.com/muhammad-abbas07/Ecommerce-Website/",
     },
     {
         id: 3,
@@ -30,7 +30,7 @@ const projectData = [
         description: "An advanced tool for time tracking with customizable workflows and real-time performance analytics.",
         imageUrl: "/project3.png",
         visitLink: "https://pakistantimer.vercel.app/",
-        githubLink: "https://github.com/abbas-asad/Html_Css_Js_Projects/tree/main/Pakistan_timer/",
+        githubLink: "https://github.com/muhammad-abbas07/Html_Css_Js_Projects/tree/main/Pakistan_timer/",
     },
     {
         id: 4,
@@ -48,7 +48,7 @@ const projectData = [
         description: "A responsive digital portfolio to showcase work, skills, projects, and achievements to introduce myself.",
         imageUrl: "/project5.png",
         visitLink: "https://abbasasad.vercel.app/",
-        githubLink: "https://github.com/abbas-asad/Portfolio-Website/",
+        githubLink: "https://github.com/muhammad-abbas07/Portfolio-Website/",
     },
     {
         id: 6,
@@ -57,7 +57,7 @@ const projectData = [
         description: "A real-time web-based code editor with collaboration features for development teams for better results.",
         imageUrl: "/project6.png",
         visitLink: "https://ultraedit-web.vercel.app/",
-        githubLink: "https://github.com/abbas-asad/Html_Css_Web_Projects/tree/main/ultraedit_clone/",
+        githubLink: "https://github.com/muhammad-abbas07/Html_Css_Web_Projects/tree/main/ultraedit_clone/",
     },
 ];
 

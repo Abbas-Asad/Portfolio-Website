@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 const socialLinks = [
   {
-    href: 'https://www.linkedin.com/in/abbas-asad/',
+    href: 'https://www.linkedin.com/in/agentic-ai-developer/',
     iconClass: 'fab fa-linkedin',
     hoverClass: 'hover:text-blue-500',
   },
@@ -13,7 +13,7 @@ const socialLinks = [
     hoverClass: 'hover:text-blue-500',
   },
   {
-    href: 'https://www.youtube.com/@abbastech07/',
+    href: 'https://www.youtube.com/@AgenticAIDeveloper/',
     iconClass: 'fab fa-youtube',
     hoverClass: 'hover:text-red-500',
   },
@@ -23,7 +23,7 @@ const socialLinks = [
     hoverClass: 'hover:text-pink-500',
   },
   {
-    href: 'https://github.com/abbas-asad/',
+    href: 'https://github.com/muhammad-abbas07/',
     iconClass: 'fab fa-github',
     hoverClass: 'hover:text-gray-100',
   },
